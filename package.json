@@ -1,0 +1,22 @@
+{
+  "name": "css-framework-challenge",
+  "version": "1.0.0",
+  "description": "# Languages used  * HTML  * SCSS  * *FRAMEWORK*",
+  "main": "index.js",
+  "scripts": {
+    "scss": "node-sass --watch src/scss --output src/css --source-map true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yunhsiaho/css-framework-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yunhsiaho/css-framework-challenge/issues"
+  },
+  "homepage": "https://github.com/yunhsiaho/css-framework-challenge#readme",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
