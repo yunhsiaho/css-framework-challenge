@@ -2,8 +2,7 @@
 
 # Languages used
  * HTML
- * SCSS
- * *FRAMEWORK*
+ * *FRAMEWORK(bootstrap 4)*
  
 # Screenshot of the work
 
