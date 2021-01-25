@@ -6,7 +6,7 @@
  
 # Screenshot of the work
 
-[logo]:https://raw.githubusercontent.com/yunhsiaho/css-framework-challenge/main/src/image/screenshot.png "screenshot"
+![alt text](https://raw.githubusercontent.com/yunhsiaho/css-framework-challenge/main/src/image/screenshot.png "Logo Title Text 1")
 
 # Link
 
